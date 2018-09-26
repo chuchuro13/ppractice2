@@ -1,0 +1,24 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1537947963908.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2715055176",
+    "id" : "3B82AA5E",
+    "lastKnownWriteTime" : 1537949190,
+    "last_content_update" : 1537949191723,
+    "path" : "C:/Users/NTPU/Desktop/practice2/2018-09-26.Rmd",
+    "project_path" : "2018-09-26.Rmd",
+    "properties" : {
+        "chunk_output_type" : "inline",
+        "cursorPosition" : "21,10",
+        "scrollLine" : "0",
+        "tempName" : "Untitled2"
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}

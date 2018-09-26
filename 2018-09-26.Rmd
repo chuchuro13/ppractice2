@@ -1,0 +1,28 @@
+---
+title: "2018-09-26"
+output: html_notebook
+---
+
+
+
+```{r}
+num1<-1.568
+num2<-2.121
+round(num1,digits = 2)
+```
+```{r}
+num1<-1
+num2<-100
+num1+num2
+```
+
+Add a new chunk by clicking the *Insert Chunk* button on the toolbar or by pressing *Ctrl+Alt+I*.
+```{r}
+b<-"你好"
+bVector<-c("你好","How are you?")
+b<-"'你好'"
+```
+
+When you save the notebook, an HTML file containing the code and output will be saved alongside it (click the *Preview* button or press *Ctrl+Shift+K* to preview the HTML file).
+
+The preview shows you a rendered HTML copy of the contents of the editor. Consequently, unlike *Knit*, *Preview* does not run any R code chunks. Instead, the output of the chunk when it was last run in the editor is displayed.
